@@ -1,6 +1,5 @@
-node_modules/
-bower_components/
-*.log
+node_modules
+jspm_packages
+.nyc_output
+coverage
 
-build/
-dist/
